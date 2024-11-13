@@ -23,6 +23,7 @@ MultiTherm will be made available for purchase at a later date.
 - ESP32C6 firmware: [mt-fw](./mt-fw)
 - PCB design files: [mt-hw](./mt-hw)
 - Userspace serial-to-npyz driver: [mt-relay](./mt-relay)
+- Project roadmap: [ROADMAP.md](./ROADMAP.md)
 
 ## License
 [GPLv3](./LICENSE)
