@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "jumper-small")(type "KiCad")(uri "${KIPRJMOD}/jumper-small.pretty")(options "")(descr ""))
+)
