@@ -19,6 +19,8 @@ jobs:
     - name: Build firmware binary
       working-directory: mt-fw
       run: cargo build --verbose
+    - name: Install udev tools
+      run: sudo apt-get install -y libudev-dev
     - name: Build relay driver
       working-directory: mt-relay
       run: cargo build --verbose
