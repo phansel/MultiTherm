@@ -1,4 +1,6 @@
 # MultiTherm Ribbon
+![Unpopulated mt-ribbon flex PCB](./mt-ribbon.png)
+
 Individual ribbon cable flex PCB with temperature probe on the end.
 
 Device address is configurable via solderable jumpers.
